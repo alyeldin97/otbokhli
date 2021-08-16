@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591482974389",
+    "project_id": "otbokhli",
+    "storage_bucket": "otbokhli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591482974389:android:7815058ea34f136749cefc",
+        "android_client_info": {
+          "package_name": "com.example.otbokhli_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591482974389-caa8tl8sg3hle3e9jsn3kbqvs5a9p39f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otbokhli_app",
+            "certificate_hash": "f46ba5b20d9d0c411e5b5febb664c03e71187fed"
+          }
+        },
+        {
+          "client_id": "591482974389-ptoekvft552rmsh9uqcfhm1j82qt9mbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekcKRRizAhFSwalda-QN1pJCTnBtCIJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591482974389-ptoekvft552rmsh9uqcfhm1j82qt9mbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
